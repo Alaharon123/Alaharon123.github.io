@@ -8,4 +8,4 @@ This website is an attempt to make the course easy to follow. A homepage for the
 
 week | Monday | Tuesday | Wednesday | Thursday | Friday | Weekend
 -----|--------|---------|-----------|----------|--------|--------
-1    | Holiday | [Week 1 First Lab](/labs/1-1.md) | [Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8) <br /> [Handout](https://people.eecs.berkeley.edu/~bh/61a-pages/first-day-handout.pdf) (don't worry about the administrative stuff) |
+1    | Holiday | [Week 1 First Lab](/labs/1-1.md) | [Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8) <br /> [Handout](https://people.eecs.berkeley.edu/~bh/61a-pages/first-day-handout.pdf) (don't worry about the administrative stuff) <br /> [Lecture Notes](https://people.eecs.berkeley.edu/~bh/61a-pages/Volume2/notes.pdf) | [Week 1 Second Lab](/labs/1.2.md) | [Lecture 2: functional programming 2](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ) <br /> [Lecture Notes](https://people.eecs.berkeley.edu/~bh/61a-pages/Volume2/notes.pdf) |
