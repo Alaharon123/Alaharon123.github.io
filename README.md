@@ -6,7 +6,9 @@ the language in which it was written, to teaching Composing Programs, a book bas
 The lectures for Spring 2011 are archived on archive.org, and there is a course site as well, but everything is rather scattered.
 This website is an attempt to make the course easy to follow. An organized homepage for the already existing content.
 
-Prequisite: Enough programming that you are familiar with recursion. If not, do [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) first, or as a corequisite.
+Prequisite: Enough programming that you are familiar with recursion.
+If not, do [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) first, or as a corequisite.
+[Lab 1 here](/labs/1-1.md) will set you up with the environment needed for it.
 
 Corequisite: Calculus 1
 
