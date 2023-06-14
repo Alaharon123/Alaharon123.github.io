@@ -6,6 +6,6 @@ the language in which it was written, to teaching Composing Programs, a book bas
 The lectures for Spring 2011 are archived on archive.org, and there is a course site as well, but everything is rather scattered.
 This website is an attempt to make the course easy to follow. A homepage for the already existing content.
 
-week | Monday  |              Tuesday             |                       Wednesday                        | Thursday | Friday | Weekend
------|---------|----------------------------------|--------------------------------------------------------|----------|--------|--------
-1    | Holiday | [Week 1 First Lab](/labs/1-1.md) | [Lecture 1: functional programming 1](/lectures/01.md) | 
+week | Monday | Tuesday | Wednesday | Thursday | Friday | Weekend
+-----|--------|---------|-----------|----------|--------|--------
+1    | Holiday | [Week 1 First Lab](/labs/1-1.md) | [Lecture 1: functional programming 1](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8) <br /> [Handout](https://people.eecs.berkeley.edu/~bh/61a-pages/first-day-handout.pdf) (don't worry about the administrative stuff) |
